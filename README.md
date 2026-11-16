@@ -22,7 +22,7 @@ There is a simple example file attached will be helpful as the base Arena implem
 
 ```
 make
-./example
+./build/example
 ```
 
 ___
