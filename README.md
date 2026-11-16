@@ -15,16 +15,16 @@ There is a simple example file attached will be helpful as the base Arena implem
 
 > [!WARNING]
 > In the current state of example I got too ambitious as I was trying my hands on something similar, So maybe it will be not to your liking or not what you thought off.
+\
 > It will only run on terminal that supports Kitty Graphics Protocol.
+\
 > On other term I don't guarantee of it working and don't take any responsibility if anything goes wrong either way.
 
 ```
 make
 ./example
 ```
-```
 
-__
+___
 
 ## Thanks for Going through the Dumb Project
-```
